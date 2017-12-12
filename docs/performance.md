@@ -1,9 +1,9 @@
 
 ## Performance
 
-![](https://img.shields.io/badge/Rounded Digital-menu-orange.svg)
- ![](https://img.shields.io/badge/Theme Options-menu-191970.svg)
- ![](https://img.shields.io/badge/Performance-menu-999999.svg)
+![](https://img.shields.io/badge/Rounded%20Digital-menu-orange.svg)
+![](https://img.shields.io/badge/Theme%20Options-menu-191970.svg)
+![](https://img.shields.io/badge/Performance-menu-999999.svg)
 
 
   - Asynchronous Adaptive Image System ![](https://img.shields.io/badge/Turn-on-brightgreen.svg)
