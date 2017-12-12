@@ -1,5 +1,9 @@
 ## Backup/Update procedures ![](https://img.shields.io/badge/Version-1.0-brightgreen.svg) ![](https://img.shields.io/badge/Date-2017.12.12-blue.svg)
+
+[back to index](../README.md)
+
 ----
+
 ### Instructions
 
 - **Step 1:** Use Rounded Digital > Options Utils > Layouts to generate & save new layout
