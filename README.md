@@ -1,7 +1,7 @@
 # Rounded Digital Update Procedures
 
 ----
-### <style="color:red">Instructions</style>
+### Instructions
 
 - **Step 1:** Use Rounded Digital > Options Utils > Layouts to generate & save new layout
   - (a) Use consistent naming convention (clientname-YYYY-MM-DD)
