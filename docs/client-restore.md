@@ -1,5 +1,7 @@
 ### Client Restore Restore Directions
 
+[back to index](../README.md)
+
 ---
 ### Procedure for site restore
 - Install new version of Wordpress
