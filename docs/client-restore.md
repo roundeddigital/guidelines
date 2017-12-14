@@ -1,4 +1,4 @@
-### Client Restore Restore Directions
+### Client Restore Directions
 
 [back to index](../README.md)
 
