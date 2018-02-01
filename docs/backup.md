@@ -33,7 +33,7 @@
 
 * Settings PHP File:
     Export your Settings into a fully functional theme-options.php file.
-    If you want to add your own custom I18n text domain to the file, enter it into the text field before exporting.
+    If you want to add your own custom [I18n](https://codex.wordpress.org/I18n_for_WordPress_Developers) text domain to the file, enter it into the text field before exporting.
     For more information on how to use this file read the documentation on Theme Mode.
     Remember, you should always check the file for errors before including it in your theme.
 
