@@ -4,6 +4,7 @@
 
 - #### Performance Guidelines ![](https://img.shields.io/badge/Uncode-1.7.5-blue.svg) ![](https://img.shields.io/badge/Date-2018.03.05-brightgreen.svg)
   - [ ] Javascript: Organize & Clean up code
+  - [ ] [Wordpress: Uncode: Setup](docs/wordpress-uncode-setup.md)
   - [ ] [Uncode: Theme Options: Performance](docs/performance.md)
 
 ---
